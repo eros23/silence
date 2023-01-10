@@ -22,5 +22,5 @@ brew install ffmpeg
 ## Esegui
 
 ```
-./silence 3
+./silence.sh 3
 ```
